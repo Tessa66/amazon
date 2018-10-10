@@ -2,6 +2,7 @@
 Documentation  This is some basic info about the whole suite
 Library  SeleniumLibrary
 
+#Dit is een test
 
 *** Variables ***
 
